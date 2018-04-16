@@ -1,0 +1,13 @@
+C:\Users\Kateryna\Documents\Programming\Programming\WEB\AppTest\Site2\Site2\bin\Site2.dll.config
+C:\Users\Kateryna\Documents\Programming\Programming\WEB\AppTest\Site2\Site2\bin\Site2.dll
+C:\Users\Kateryna\Documents\Programming\Programming\WEB\AppTest\Site2\Site2\bin\Site2.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\WEB\AppTest\Site2\Site2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Kateryna\Documents\Programming\Programming\WEB\AppTest\Site2\Site2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Kateryna\Documents\Programming\Programming\WEB\AppTest\Site2\Site2\obj\Debug\Site2.csprojResolveAssemblyReference.cache
+C:\Users\Kateryna\Documents\Programming\Programming\WEB\AppTest\Site2\Site2\obj\Debug\Site2.csproj.CoreCompileInputs.cache
+C:\Users\Kateryna\Documents\Programming\Programming\WEB\AppTest\Site2\Site2\obj\Debug\Site2.dll
+C:\Users\Kateryna\Documents\Programming\Programming\WEB\AppTest\Site2\Site2\obj\Debug\Site2.pdb
+C:\Users\Kateryna\Documents\Programming\Programming\WEB\AppTest\Site2\Site2\bin\EntityFramework.dll
+C:\Users\Kateryna\Documents\Programming\Programming\WEB\AppTest\Site2\Site2\bin\EntityFramework.SqlServer.dll
+C:\Users\Kateryna\Documents\Programming\Programming\WEB\AppTest\Site2\Site2\bin\EntityFramework.xml
+C:\Users\Kateryna\Documents\Programming\Programming\WEB\AppTest\Site2\Site2\bin\EntityFramework.SqlServer.xml

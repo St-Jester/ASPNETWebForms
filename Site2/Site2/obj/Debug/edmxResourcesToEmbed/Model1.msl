@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="NewDatabaseModelStoreContainer" CdmEntityContainer="NewDatabaseEntities">
+    <EntitySetMapping Name="News">
+      <EntityTypeMapping TypeName="NewDatabaseModel.News">
+        <MappingFragment StoreEntitySet="News">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Shot" ColumnName="Shot" />
+          <ScalarProperty Name="Full" ColumnName="Full" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Publish" ColumnName="Publish" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Tables">
+      <EntityTypeMapping TypeName="NewDatabaseModel.Table">
+        <MappingFragment StoreEntitySet="Table">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Title" ColumnName="Title" />
+          <ScalarProperty Name="Shot" ColumnName="Shot" />
+          <ScalarProperty Name="Full" ColumnName="Full" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="Publish" ColumnName="Publish" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
